@@ -276,10 +276,12 @@ The XML files stored in `templates/` contain `Unassigned` fields. Before each Op
 
 This prevents computer-specific absolute paths from being stored in the public templates.
 
+
 ## Citation
 
-Citation information for this software will be added after publication of the first stable release.
+If you use this software, please cite the archived version:
 
+Paulo Augusto de Faria. *OpenSim Gait Analysis Pipeline*, version 1.0.0, 2026. DOI: https://doi.org/10.5281/zenodo.21340943
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
