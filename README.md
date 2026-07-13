@@ -282,7 +282,7 @@ Citation information for this software will be added after publication of the fi
 
 ## License
 
-A software license will be added before the repository is made public.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Author
 
