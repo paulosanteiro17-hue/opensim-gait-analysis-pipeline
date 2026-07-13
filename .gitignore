@@ -216,3 +216,65 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# ==========================================
+# Local biomechanical datasets
+# ==========================================
+
+data/raw/
+data/trc/
+data/processed/
+
+# Original and converted motion-capture data
+*.c3d
+*.trc
+
+# ==========================================
+# OpenSim participant-specific files
+# ==========================================
+
+*.mot
+*.sto
+*.osim
+
+*_scaled.osim
+*_scale_factors.xml
+*_static_output.mot
+*_ik.mot
+
+# ==========================================
+# Generated results and temporary files
+# ==========================================
+
+results/
+outputs/
+logs/
+temp/
+tmp/
+work/
+
+*.log
+*.out
+*.err
+
+# ==========================================
+# Local configuration and environment
+# ==========================================
+
+.env
+.env.*
+.venv/
+venv/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+
+
+
+
