@@ -3,7 +3,7 @@ message: "If you use this software, please cite it using the metadata below."
 type: software
 title: "OpenSim Gait Analysis Pipeline"
 license: MIT
-doi: https://doi.org/10.5281/zenodo.21340943
+doi: "10.5281/zenodo.21340943"
 
 authors:
   - family-names: "de Faria"
