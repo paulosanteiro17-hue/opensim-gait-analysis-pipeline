@@ -1,7 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata below."
+message: "Se você utilizar este software, cite-o usando os metadados abaixo."
 type: software
 title: "OpenSim Gait Analysis Pipeline"
+version: "1.0.0"
+date-released: "2026-07-13"
 license: MIT
 doi: "10.5281/zenodo.21340943"
 
