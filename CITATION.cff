@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "OpenSim Gait Analysis Pipeline"
+
+authors:
+  - family-names: "de Faria"
+    given-names: "Paulo Augusto"
+    affiliation: "Universidade Federal de São Carlos (UFSCar)"
+    email: "paulo.faria@estudante.ufscar.br"
+
+abstract: >-
+  An automated computational pipeline for lower-limb gait biomechanical
+  analysis using OpenSim. The software includes C3D-to-TRC conversion,
+  musculoskeletal model scaling, inverse kinematics, extraction of joint
+  kinematics, center of mass trajectories and musculotendon length estimates,
+  kinematic gait-cycle segmentation, temporal normalization, group-level
+  analysis and quality-control reporting.
+
+repository-code: "https://github.com/paulosanteiro17-hue/opensim-gait-analysis-pipeline"
+
+keywords:
+  - gait analysis
+  - biomechanics
+  - OpenSim
+  - OpenCap
+  - musculoskeletal modeling
+  - inverse kinematics
+  - lower limbs
+  - motion capture
+  - computational pipeline
